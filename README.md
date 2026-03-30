@@ -1,3 +1,5 @@
+# Page Replacement Algorithm Simulator (FIFO, LRU, Optimal) in C++
+
 # Virtual Memory Page Replacement Simulator
 
 ## Overview
