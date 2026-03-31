@@ -58,8 +58,5 @@ The concepts implemented in this project are widely used in modern computing sys
 
 Possible extensions include:
 
-* FIFO page replacement
-* LRU page replacement
-* Optimal page replacement algorithm
 * File-based page reference traces
 * Graphical visualization of memory frames
